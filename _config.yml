@@ -5,4 +5,4 @@ scholar:
   order: descending  
 
   source: ./_biblio
-  bibliography: madsen-publications.bib
+  bibliography: madsen-articles.bib
